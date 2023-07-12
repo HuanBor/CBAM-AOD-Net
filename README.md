@@ -25,7 +25,7 @@ WIP.
 
 
 Network architecture
-![Alt text](pytorch_ssim/man.png?raw=true "Title")  
+![Alt text](Net.png?raw=true "Title")  
 
 
 
