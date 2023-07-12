@@ -21,11 +21,11 @@ Currently Implemented:
 
 **Evaluation:**
 WIP.  
-Some qualitative results are shown below:
 
+
+
+Network architecture
 ![Alt text](pytorch_ssim/man.png?raw=true "Title")  
-![Alt text](pytorch_ssim/guogong.png?raw=true "Title")  
-![Alt text](results/test4.jpg?raw=true "Title")  
-![Alt text](results/test9.jpg?raw=true "Title")  
-![Alt text](results/test13.jpg?raw=true "Title")  
-![Alt text](results/test15.jpg?raw=true "Title")
+
+
+
